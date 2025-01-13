@@ -54,9 +54,11 @@ Before you start, ensure you have the following installed:
    ```bash
    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 6. **Install Solana CLI**:
-  ```bash
-  sh -c "$(curl -sSfL https://release.solana.com/v1.11.0/install)"
+     
 ```bash
+  sh -c "$(curl -sSfL https://release.solana.com/v1.11.0/install)"
+8. **Getting the code Into Personal Machine**:
+  ```bash
 git clone https://github.com/yourusername/vesting-contract.git
 cd vesting-contract
    
