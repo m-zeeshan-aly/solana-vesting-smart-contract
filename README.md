@@ -8,11 +8,7 @@ This repository will help you understand Solana, Anchor, and how to interact wit
 1. [Overview](#overview)
 2. [Technology Stack](#technology-stack)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Development](#development)
-6. [Commands](#commands)
-7. [Testing](#testing)
-8. [License](#license)
+
 
 ## Overview
 
@@ -54,16 +50,7 @@ Before you start, ensure you have the following installed:
    ```bash
    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 4. **Install Solana CLI**:
-   ```bash
+```bash
   sh -c "$(curl -sSfL https://release.solana.com/v1.11.0/install)"
 
-6.  **Getting the code Into Personal Machine**:
-  ```bash
- git clone https://github.com/yourusername/vesting-contract.git
- cd vesting-contract
-
-     
-
-   
-   
 
