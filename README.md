@@ -50,17 +50,20 @@ Before you start, ensure you have the following installed:
 2. **Yarn**: Install [Yarn](https://yarnpkg.com/) by running:
    ```bash
    npm install --global yarn
-4. **Rust**: Install [Rust](https://www.rust-lang.org/). Follow the instructions on the website to install Rust on your machine. You can install it by running:
+3. **Rust**: Install [Rust](https://www.rust-lang.org/). Follow the instructions on the website to install Rust on your machine. You can install it by running:
    ```bash
    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-6. **Install Solana CLI**:
-     
-```bash
+4. **Install Solana CLI**:
+   ```bash
   sh -c "$(curl -sSfL https://release.solana.com/v1.11.0/install)"
-8. **Getting the code Into Personal Machine**:
+
+6.  **Getting the code Into Personal Machine**:
   ```bash
-git clone https://github.com/yourusername/vesting-contract.git
-cd vesting-contract
+ git clone https://github.com/yourusername/vesting-contract.git
+ cd vesting-contract
+
+     
+
    
    
 
