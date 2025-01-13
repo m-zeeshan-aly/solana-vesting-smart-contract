@@ -56,6 +56,9 @@ Before you start, ensure you have the following installed:
 6. **Install Solana CLI**:
   ```bash
   sh -c "$(curl -sSfL https://release.solana.com/v1.11.0/install)"
+```bash
+git clone https://github.com/yourusername/vesting-contract.git
+cd vesting-contract
    
    
 
